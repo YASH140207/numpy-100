@@ -1,7 +1,7 @@
 < q1
 Import the numpy package under the name `np` (★☆☆)
 
-< h1
+< h12
 hint: import … as
 
 < a1
